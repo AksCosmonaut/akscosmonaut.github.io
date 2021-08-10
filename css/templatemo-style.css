@@ -23,7 +23,7 @@ a:focus {
 .tm-left-right-container { width: 100%; }
 
 .tm-blue-bg {
-	background-color: #006599;
+	background-color: #856887;
 	color: white;
 }
 
@@ -167,11 +167,11 @@ textarea:-ms-input-placeholder {
 	}
 
 	.container { width: 100%; }
-	.tm-left-column { width: 30%; }
+	.tm-left-column { width: 20%; }
 
 	.tm-right-column {
 		float: right;
-		width: 70%;
+		width: 80%;
 	}
 
 	.tm-nav-item {
@@ -267,7 +267,7 @@ textarea:-ms-input-placeholder {
 	    padding-bottom: 20px;
 	}
 
-	.tm-nav-item { font-size: 1.4rem; }
+	.tm-nav-item { font-size: 1rem; }
 
 	.tm-site-name {
 		font-size: 2.4rem;
